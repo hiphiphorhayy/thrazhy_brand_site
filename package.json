@@ -1,0 +1,11 @@
+{
+  "name": "thrazhy_site_repo",
+  "version": "1.0.0",
+  "description": "Thrazhy Brand Website Project\r Frontend: Tailwind CSS UI Components\r Backend: Node JS & Stripe",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "George M",
+  "license": "ISC"
+}
