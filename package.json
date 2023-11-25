@@ -8,7 +8,7 @@
   },
   "author": "George M",
   "license": "ISC",
-  "dependencies": {
-    "tailwindcss": "^3.3.3"
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
   }
 }
